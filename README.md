@@ -1,4 +1,7 @@
 LINK -- https://bloggerbliss.vercel.app 
+To Bypass SignIn use 
+EmailId = antriksh@gmail.com
+Password = 123456
 
 I have builded a blog webiste using
 
