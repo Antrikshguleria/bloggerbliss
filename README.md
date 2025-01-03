@@ -7,7 +7,7 @@ Live Demo
 
 Access the live website: [Blogger Bliss](https://bloggerbliss.vercel.app   )
 
-To Bypass Sign In:
+To Bypass Sign Up:
 Use the following credentials:
 
 	•	Email: antriksh@gmail.com
